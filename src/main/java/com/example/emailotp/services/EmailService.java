@@ -1,6 +1,6 @@
 package com.example.emailotp.services;
 
-import com.starter.springboot.rest.dto.EmailDTO;
+import com.example.emailotp.rest.dto.EmailDTO;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
